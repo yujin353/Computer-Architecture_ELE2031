@@ -2,6 +2,7 @@
 	lw 0 2 data2
 	lw 0 4 data3
 	noop
+	noop
 	add 1 2 3
 	sw 0 3 r1
 	add 1 4 5
