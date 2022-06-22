@@ -4,9 +4,7 @@
 	noop
 	noop
 	add 1 2 3
-	sw 0 3 r1
 	add 1 4 5
-	sw 0 5 r2
 	halt
 data1 .fill 10
 data2 .fill 20 
